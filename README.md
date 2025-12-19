@@ -39,8 +39,8 @@ A responsive web application that calculates a person's age in years, months, an
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd age-calculator-app-main
+   git clone https://github.com/alaa-mekibes/age-calculator
+   cd age-calculator
    ```
 
 2. **Install dependencies**
@@ -61,7 +61,7 @@ A responsive web application that calculates a person's age in years, months, an
 ## Project Structure
 
 ```
-age-calculator-app-main/
+age-calculator
 ├── dist/
 │   ├── index.html          # Main HTML file
 │   ├── style.css           # Compiled Tailwind CSS
